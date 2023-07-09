@@ -1,0 +1,8 @@
+General Prompts
+
+Summarize the book [name of book] and cover all the important points mentioned.
+
+Translate this piece of text into Englisg [insert text].
+
+Explain [insert topic] in slimple and easy terms that any beginner can understand.
+
